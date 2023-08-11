@@ -5,20 +5,22 @@ on:
   schedule: [{ cron: '0 * * * *' }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: { branches: ['main'] }
+  push: { branches: ['master', 'main'] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: repository
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: QuentinHsu
+          template: classic
+          base: header
           config_timezone: Asia/Shanghai
 
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_projects: yes
+          # plugin_followup: yes
+          # plugin_followup_sections: user
+          # plugin_notable: yes
