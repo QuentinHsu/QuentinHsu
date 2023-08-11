@@ -1,5 +1,11 @@
 # Hello there 👋
 
+## In GitHub
+
+<p align="center">
+	<a href="https://github.com/QuentinHsu"><img src="https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/metrics.repository.svg" alt="metrics"></a>
+</p>
+
 <!--START_SECTION:waka-->
 
 ```txt
