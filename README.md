@@ -9,6 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 03 August 2023 - To: 10 August 2023
+
 Vue.js       21 hrs 24 mins  █████████████████▒░░░░░░░   69.29 %
 JavaScript   4 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
 HTML         3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
