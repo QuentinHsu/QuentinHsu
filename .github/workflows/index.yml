@@ -1,26 +1,23 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Waka Readme
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{ cron: '0 * * * *' }]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: { branches: ['master', 'main'] }
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: '0 0 * * *' # runs at every 12AM UTC
+  push:
+    branches:
+      - master
+
 jobs:
-  github-metrics:
+  update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: athul/waka-readme@master
         with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: QuentinHsu
-          template: classic
-          base: header
-          config_timezone: Asia/Shanghai
-
-          # plugin_followup: yes
-          # plugin_followup_sections: user
-          # plugin_notable: yes
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
+          SHOW_TITLE: true
