@@ -10,6 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # https://github.com/lowlighter/metrics/blob/master/source/templates/classic/README.md
       - name: Classic template
         uses: lowlighter/metrics@latest
         with:
@@ -17,3 +18,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+
+      # https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_calendar: yes
+          plugin_calendar_limit: -1

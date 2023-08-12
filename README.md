@@ -8,6 +8,8 @@ I'm QuentinHsu
 	<a href="https://github.com/QuentinHsu"><img src="https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/metrics.classic.svg" alt="metrics"></a>
 </p>
 
+## In Coding
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,3 +23,7 @@ Bash         27 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+	<a href="https://github.com/QuentinHsu"><img src="https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/metrics.plugin.calendar.full.svg" alt="metrics"></a>
+</p>
