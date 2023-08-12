@@ -5,7 +5,11 @@ I'm QuentinHsu
 ## In GitHub
 
 <p align="center">
-	<a href="https://github.com/QuentinHsu"><img src="https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/metrics.classic.svg" alt="metrics"></a>
+	<a href="https://github.com/QuentinHsu"><img src="https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/static/metrics.classic.svg" alt="metrics"></a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/QuentinHsu"><img src="https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/static/metrics.plugin.calendar.svg" alt="metrics"></a>
 </p>
 
 ## In Coding
@@ -23,7 +27,3 @@ Bash         27 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<p align="center">
-	<a href="https://github.com/QuentinHsu"><img src="https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/metrics.plugin.calendar.full.svg" alt="metrics"></a>
-</p>
