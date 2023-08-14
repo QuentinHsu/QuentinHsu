@@ -17,7 +17,7 @@ I'm QuentinHsu
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 Vue.js       20 hrs 46 mins  ████████████████░░░░░░░░░   64.02 %
 JavaScript   5 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
