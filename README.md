@@ -14,7 +14,7 @@ I'm QuentinHsu
 
 ## In Coding
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:athul/waka-readme-->
 
 ```txt
 From: 04 August 2023 - To: 11 August 2023
@@ -26,4 +26,4 @@ YAML         1 hr 23 mins    █░░░░░░░░░░░░░░░░
 Bash         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:athul/waka-readme-->
