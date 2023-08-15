@@ -28,5 +28,5 @@ Markdown     35 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:athul/waka-readme-->
 
-<!--START_SECTION:anmol098/waka-readme-stats-->
-<!--END_SECTION:anmol098/waka-readme-stats-->
+<!--START_SECTION:anmol098-->
+<!--END_SECTION:anmol098-->
