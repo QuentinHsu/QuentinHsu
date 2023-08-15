@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN_WAKA_README_STATS }}
           SECTION_NAME: anmol098
           SHOW_COMMIT: 'False'
+          SHOW_PROJECTS: 'False'
