@@ -16,4 +16,4 @@ jobs:
           SECTION_NAME: anmol098/waka-readme-stats
           SHOW_COMMIT: 'False'
           SHOW_PROJECTS: 'False'
-          SHOW_TIMELINE: 'False'
+          SHOW_TIMEZONE: 'Asia/Shanghai'
