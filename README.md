@@ -29,7 +29,7 @@ Markdown     35 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:athul/waka-readme-->
 
 <!--START_SECTION:anmol098/waka-readme-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
@@ -92,5 +92,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2023 00:51:38 UTC
+ Last Updated on 17/08/2023 12:22:31 UTC
 <!--END_SECTION:anmol098/waka-readme-stats-->
