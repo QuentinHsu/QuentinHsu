@@ -33,9 +33,9 @@ Markdown     35 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:athul/waka-readme-->
 
 <!--START_SECTION:anmol098/waka-readme-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -97,5 +97,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2023 00:54:04 UTC
+ Last Updated on 29/08/2023 12:23:38 UTC
 <!--END_SECTION:anmol098/waka-readme-stats-->
