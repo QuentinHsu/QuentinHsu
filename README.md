@@ -33,13 +33,13 @@ Markdown     35 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:athul/waka-readme-->
 
 <!--START_SECTION:anmol098/waka-readme-stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-690%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 92.9 kB Used in GitHub's Storage 
+> 📦 93.0 kB Used in GitHub's Storage 
  > 
 > 🏆 119 Contributions in the Year 2023
  > 
@@ -66,17 +66,17 @@ Sunday                   410 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   35 hrs 23 mins      ██████████████░░░░░░░░░░░   57.40 % 
-JSON                     7 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-JavaScript               6 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-TypeScript               4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-YAML                     3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Vue.js                   31 hrs 44 mins      ██████████████░░░░░░░░░░░   56.35 % 
+JavaScript               6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+JSON                     6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+TypeScript               4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+YAML                     3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-VS Code                  61 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  56 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      61 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      56 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QuentinHsu/QuentinHsu/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2023 00:53:10 UTC
+ Last Updated on 07/09/2023 12:24:03 UTC
 <!--END_SECTION:anmol098/waka-readme-stats-->
